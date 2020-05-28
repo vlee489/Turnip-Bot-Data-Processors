@@ -1,0 +1,6 @@
+setuptools_scm
+pillow
+python-dotenv
+requests
+ujson
+tinydb
